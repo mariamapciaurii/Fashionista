@@ -1,0 +1,58 @@
+@media screen and (max-width: 1200px) {
+    main .photo img {
+      width: 100%;
+    }
+  }
+  
+  @media screen and (max-width: 991px) {
+    .navbar-expand-lg {
+      width: 100%;
+    }
+  }
+  
+  @media screen and (max-width: 993px) {
+    main .card-section .smallara {
+      margin-left: 50px;
+    }
+  }
+  
+  @media screen and (max-width: 1215px) {
+    .gallery-images .card-gallery {
+      width: 40%;
+      flex-wrap: wrap;
+    }
+  }
+  @media screen and (max-width: 480px) {
+    .btn-random {
+      width: 100%;
+    }
+  }
+  
+  @media screen and (max-width: 750px) {
+    main .fa-angle-up {
+      display: none;
+    }
+  }
+  
+  @media screen and (max-width: 750px) {
+    .gallery-3 {
+      margin-top: 650px;
+    }
+  }
+  
+  @media screen and (max-width: 520px) {
+    main .about-me .form-group .form-about-text {
+      width: 100%;
+    }
+  }
+  @media screen and (max-width: 520px) {
+    main .about-me .form-group .one-more-input .kse {
+      left: 17px;
+    }
+  }
+  @media screen and (max-width: 520px) {
+    main .about-me .form-group .form-about {
+      width: 100%;
+    }
+  }
+  
