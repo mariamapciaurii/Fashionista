@@ -290,3 +290,9 @@ main .about-me .form-group .one-more-input .kse:hover {
   color: #343a40;
   border: none;
 }
+.container img {
+  position: relative;
+    animation-name: one;
+    animation-duration: 7s;  
+   animation-fill-mode: forwards;
+}
