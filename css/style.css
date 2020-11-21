@@ -292,7 +292,7 @@ main .about-me .form-group .one-more-input .kse:hover {
 }
 .container img {
   position: relative;
-    animation-name: one;
+    animation-name: mainimage;
     animation-duration: 7s;  
    animation-fill-mode: forwards;
 }
